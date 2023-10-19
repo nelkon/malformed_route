@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>IPFilter</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
         <!-- Add a dependency for your servlet container (e.g., Apache Tomcat) -->
